@@ -1,0 +1,67 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+header{
+    background-color: orange;
+    padding: 5px;
+}
+.logo{
+    width: 200px;
+    height: 200x;
+}
+nav{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: white;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 60px ;
+    color: black; }
+     .image{
+        width: 200px;
+        height: 200px;
+    }
+    h1{
+        font-size: 36px;
+        color: white;
+        font-weight:normal;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+    footer{
+        background-color: orange;
+        padding: 10px;
+        margin-top: 20px;
+    }
+    footer p{
+        background-color: white;
+        padding: 5px;
+    }
+    footer a{
+        background-color: red;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        padding: 10px 25px;
+        border-radius: 10px;
+    }
+    .contacts{
+        background-color: purple;
+        color: white;
+        padding: 10px 25px;
+        border-radius: 10px;
+        font-size: 16px;
+    }
+    main{
+        background-color: orange;
+        color: white;
+        padding: 10px;
+        margin: 25px;
+    }
+    .pp{
+        text-align: center;
+    }
+
